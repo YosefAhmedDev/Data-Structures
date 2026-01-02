@@ -1,7 +1,0 @@
-# CLion
-.idea/
-cmake-build-*/
-*.iml
-*.exe
-*.o
-*.out
